@@ -1,7 +1,7 @@
 # PickEggsC
 C program to calculate eggs in basket.
 
-1个1个拿，正好拿完。
+1篮子鸡蛋，1个1个拿，正好拿完。
 2个2个拿，还剩1个。
 3个3个拿，正好拿完。
 4个4个拿，还剩1个。
@@ -9,4 +9,4 @@ C program to calculate eggs in basket.
 6个6个拿，还剩3个。
 7个7个拿，正好拿完。
 8个8个拿，还剩1个。
-9个9个拿，正好拿完。
+9个9个拿，正好拿完。问篮子里至少有多少个鸡蛋。
