@@ -3,6 +3,9 @@
  *
  *  Created on: 2017年2月20日
  *      Author: lili
+ *
+ *  Function: Calculate how many eggs in basket.
+ *
  */
 
 #include <stdio.h>
